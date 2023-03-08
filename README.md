@@ -1,7 +1,7 @@
 ### Olá! Sou o Bruno Severo.
 
 - 🔭 Atualmente trabalho com automações e segurança da informação.
-- 🌱 Estou estudando Python e Pentest.
+- 🌱 Python e alguns scripts estranhos.
 - 📫 Email de contato: brunoseverocamilo@gmail.com
 
 ##
