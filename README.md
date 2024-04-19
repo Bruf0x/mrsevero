@@ -12,10 +12,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsevero&layout=compact&&hide=css,html&langs_count=7&theme=dark"/>
 </div>
   
-##  
-  
-<div> 
-  <a href="https://www.linkedin.com/in/bruno-severo-6337b8194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div> 
+
   
